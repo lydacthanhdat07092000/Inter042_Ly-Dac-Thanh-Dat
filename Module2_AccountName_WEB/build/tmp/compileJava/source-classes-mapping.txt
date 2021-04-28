@@ -1,0 +1,8 @@
+test/testconnection.java
+ test.testconnection
+model/Customer_type.java
+ model.Customer_type
+model/Service.java
+ model.Service
+model/bean/Customer.java
+ model.bean.Customer
